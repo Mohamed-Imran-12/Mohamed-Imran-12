@@ -3,9 +3,15 @@
 🎓 Final-year CS student passionate about full-stack development
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 Learning Spring Boot, React, REST APIs, and DSA
-- 💻 Building real-world projects to strengthen backend and frontend skills
-- 🚀 Exploring clean architecture, scalable systems, and modern web development
+- 💻 Building real-world projects
+- 🔍 Interested in backend & clean code
 - 🤝 Open to collaboration on  open-source projects
+- 🚀 Exploring clean architecture, scalable systems, and modern web development
+
+  
+### 📫 Connect & Explore
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedimranlink)  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohamed_Imran_01/)
 
 
 
