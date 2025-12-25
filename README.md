@@ -9,13 +9,13 @@
 - 🤝 Open to collaboration on open-source projects  
 - 🚀 Exploring clean architecture, scalable systems, and modern web development  
 
-
+---
 
 ### 📫 Connect & Explore
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedimranlink)  
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohamed_Imran_01/)
 
-
+---
 
 
 
@@ -53,7 +53,7 @@
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&theme=dark&size=50" alt="GitHub" width="50" height="50"/>
 </p>
 
-
+---
 
 ### 📊 My Stats
 
