@@ -9,7 +9,7 @@
 - 🤝 Open to collaboration on open-source projects  
 - 🚀 Exploring clean architecture, scalable systems, and modern web development  
 
----
+
 
 ### 📫 Connect & Explore
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedimranlink)  
