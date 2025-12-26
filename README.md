@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Mohamed Imran
 
 🎓 Final-year CS student passionate about full-stack development  
+
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Learning Spring Boot, React, REST APIs, and DSA  
@@ -10,15 +11,15 @@
 - 🚀 Exploring clean architecture, scalable systems, and modern web development  
 
 
-
 ### 📫 Connect & Explore
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedimranlink)  
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohamed_Imran_01/)
+
+&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedimranlink)  
+&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohamed_Imran_01/)
 
 
 
 
-
+<br/>  
 
 ### 💻 I Code In
 
@@ -37,7 +38,7 @@
 </p>
 
 
-
+<br/>  
 
 
 
@@ -52,7 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;&nbsp;
 <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&theme=dark&size=50" alt="GitHub" width="50" height="50"/>
 </p>
-
+<br/>  
 
 ### 📊 My Stats
 
