@@ -14,7 +14,7 @@
 ### 📫 Connect & Explore
 
 &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedimranlink)  
-&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohamed_Imran_01/)
+&nbsp;&nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mohamed-Imran-12/)
 
 
 
@@ -57,7 +57,7 @@
 
 ### 📊 My Stats
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohamed_Imran_01?ext=contest&theme=dark)](https://leetcode.com/Mohamed_Imran_01) &nbsp;&nbsp;
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Mohamed-Imran-12?ext=contest&theme=dark)](https://leetcode.com/u/Mohamed-Imran-12/) &nbsp;&nbsp;
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Imran-12&hide=contribs,prs) &nbsp;&nbsp;
