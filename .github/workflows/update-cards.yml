@@ -1,0 +1,56 @@
+name: Update Profile Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # runs once daily at midnight UTC
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Mohamed-Imran-12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=51F565&icon_color=51F565&text_color=FFFFFF&hide=issues,contribs
+          path: github-metrics/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Mohamed-Imran-12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=51F565&text_color=FFFFFF
+          path: github-metrics/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake contribution animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Mohamed-Imran-12
+          outputs: |
+            github-metrics/snake.svg
+            github-metrics/snake-dark.svg?palette=github-dark
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Mohamed-Imran-12&theme=radical&hide_border=true&background=0D1117&ring=51F565&fire=FFA116
+          path: github-metrics/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-metrics/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update profile cards [skip ci]"
+          git push
